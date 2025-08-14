@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+¡Hola! Me llamo Angel, actualmente soy un estudiante del Instituo Tecnológico de Toluca, estoy cursando la carrera de Sistemas Computacionales ¿Genial no?
+Me encanta aprender dia con dia todo lo que pueda, me gusta esforzarme por aprender cosas nuevas y no me da miedo intentar cosas nuevas.
 <!--
 **AngelCruzMor/AngelCruzMor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
